@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/RaphAlemoh/RaphAlemoh/raw/master/profile.jpg" width="410" alt="Alemsbaja" align="right" />
+<img src="https://github.com/RaphAlemoh/RaphAlemoh/raw/master/profile.jpg" width="250" height="250" alt="Alemsbaja" align="right" style="margin: auto; border-radius: 50%; border: #49a80a 3px solid;" />
 </p>
 
 # Hi there 👋 Good day! I'm Alemsbaja. 😃
@@ -18,23 +18,26 @@
 > good working knowledge in using Version Control System like GitHub, Gitlab and PaaS service like Herokuapp. I love 
 > exploring new innovations in ICT and readily available to work with a team of developers to learn and share experiences.  
 
+*Please find out more below :arrow_down:
 
-* 📱 Software developer specializing in [web applications](https://www.w3c.com/) and [android app](https://www.flutter.com/)
-* 🚗 Freelancing
-* 💥 Writing artciles.
-* 💻 Loves publishing [open source software on GitHub](https://github.com/RaphAlemoh?tab=repositories).
+* 📱 Software developer :computer: specializing in [web applications](https://www.w3c.com/) and [android app](https://www.flutter.com/)
+* 🚗 Freelancing :house:
+* 💥 Writing artciles. :paperclip: :pencil:
+* 💻 Loves publishing [open source software on GitHub](https://github.com/RaphAlemoh?tab=repositories). :cloud:
 * 🎮 Loves playing football and games.
 * 🎤 Also loves music and TedTalk show.
-* 😁 Nice to meet you!
-* 🌱 I’m currently learning React
-* 📫 How to reach me: [Mail](raphealenike@gmail.com)
+* 🌱 I’m currently learning  :memo: React 
+* 📫 How to reach me: :email: raphealenike@gmail.com
 * 👯 I’m looking to collaborate on open source projects
 * 💬 Ask me about: web applications, article writing, research
 * 🤔 I’m looking for help with remote job or paid internships
-* :sparkles: Innovative and Creative developer
+* :sparkles: Innovative and  :thought_balloon: Creative developer
 
- [Resume](https://bit.ly/326Stq4) |
- [Portfolio](http://meetbaja.herokuapp.com) |
+* :link: [Resume](https://bit.ly/326Stq4) |
+* :link: [Portfolio](http://meetbaja.herokuapp.com) |
+
+
+* 😁 Nice to meet you! :green_heart:
 
 
 
