@@ -18,40 +18,19 @@
 > good working knowledge in using Version Control System like GitHub, Gitlab and PaaS service like Herokuapp. I love 
 > exploring new innovations in ICT and readily available to work with a team of developers to learn and share experiences.  
 
-*Please find out more below :arrow_down:
-
-* 📱 Software developer :computer: specializing in [web applications](https://www.w3c.com/) and [android app](https://www.flutter.com/)
+* 📱 Software developer :computer: specializing in [web applications](https://www.w3c.com/)
 * 🚗 Freelancing :house:
 * 💥 Writing artciles. :paperclip: :pencil:
 * 💻 Loves publishing [open source software on GitHub](https://github.com/RaphAlemoh?tab=repositories). :cloud:
-* 🎮 Loves playing football and games.
-* 🎤 Also loves music and TedTalk show.
-* 🌱 I’m currently learning  :memo: React 
+* 🎮 Loves playing football and games  🎤 Also loves music and TedTalk show.
+* 🌱 I’m currently learning  :memo: React and :iphone: Android app
 * 📫 How to reach me: :email: raphealenike@gmail.com
 * 👯 I’m looking to collaborate on open source projects
-* 💬 Ask me about: web applications, article writing, research
-* 🤔 I’m looking for help with remote job or paid internships
+* 💬 Ask me about: web applications, article writing, research :calling:
+* 🤔 I’m looking for help with remote job or paid internships :package:
 * :sparkles: Innovative and  :thought_balloon: Creative developer
 
-* :link: [Resume](https://bit.ly/326Stq4) |
-* :link: [Portfolio](http://meetbaja.herokuapp.com) |
-
+* :link: [Resume](https://bit.ly/326Stq4) 
+* :link: [Portfolio](http://meetbaja.herokuapp.com) 
 
 * 😁 Nice to meet you! :green_heart:
-
-
-
-<!--
-**RaphAlemoh/RaphAlemoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
