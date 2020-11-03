@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/RaphAlemoh/RaphAlemoh/raw/master/image.png" width="410" alt="Alemsbaja" align="right" />
+<img src="https://github.com/RaphAlemoh/RaphAlemoh/raw/master/profile.jpg" width="410" alt="Alemsbaja" align="right" />
 </p>
 
 # Hi there 👋 Good day! I'm Alemsbaja. 😃
@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.twitter.com/alemsbaja">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-</p>
 <a href="https://www.medium.com/@raphealenike">
-<img src="https://img.shields.io/badge/-Medium-%231DA1F2" alt="Medium" /></a> 
+<img src="https://img.shields.io/badge/-Medium-%233781da" alt="Medium" /></a> 
 </p>
 
 > I'm a skilled, solution-focused Web Developer with experience designing, developing and managing web applications.
@@ -20,20 +19,22 @@
 > exploring new innovations in ICT and readily available to work with a team of developers to learn and share experiences.  
 
 
-* 📱 Software developer specializing in [web application](https://www.w3c.com/) and [android app](https://www.flutter.com/).
+* 📱 Software developer specializing in [web applications](https://www.w3c.com/) and [android app](https://www.flutter.com/)
 * 🚗 Freelancing
 * 💥 Writing artciles.
 * 💻 Loves publishing [open source software on GitHub](https://github.com/RaphAlemoh?tab=repositories).
 * 🎮 Loves playing football and games.
-* 🎤 Also loves music and TedTalk.
+* 🎤 Also loves music and TedTalk show.
 * 😁 Nice to meet you!
 * 🌱 I’m currently learning React
-* 📫 How to reach me: raphealenike@gmail.com
+* 📫 How to reach me: [Mail](raphealenike@gmail.com)
 * 👯 I’m looking to collaborate on open source projects
 * 💬 Ask me about: web applications, article writing, research
 * 🤔 I’m looking for help with remote job or paid internships
+* :sparkles: Innovative and Creative developer
 
-| Resume | [Resume](https://bit.ly/384a6KV) |
+ [Resume](https://bit.ly/326Stq4) |
+ [Portfolio](http://meetbaja.herokuapp.com) |
 
 
 
