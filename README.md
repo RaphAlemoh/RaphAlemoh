@@ -20,14 +20,14 @@
 
 * 📱 Software developer :computer: specializing in [web applications](https://www.w3c.com/)
 * 🚗 Freelancing :house:
-* 💥 Writing artciles. :paperclip: :pencil:
+* 💥 Writing technical and non-technical artciles. :paperclip: :pencil:
 * 💻 Loves publishing [open source software on GitHub](https://github.com/RaphAlemoh?tab=repositories). :cloud:
 * 🎮 Loves playing football and games  🎤 Also loves music and TedTalk show.
-* 🌱 I’m currently learning  :memo: React and :iphone: Android app
+* 🌱 Building :iphone: Android app using Flutter
 * 📫 How to reach me: :email: raphealenike@gmail.com
 * 👯 I’m looking to collaborate on open source projects
-* 💬 Ask me about: web applications, article writing, research :calling:
-* 🤔 I’m looking for help with remote job or paid internships :package:
+* 💬 Ask me about: web and mobile applications, article writing, research :calling:
+* 🤔 I’m looking for help with remote job :package:
 * :sparkles: Innovative and  :thought_balloon: Creative developer
 
 * :link: [Resume](https://bit.ly/326Stq4) 
