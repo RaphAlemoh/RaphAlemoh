@@ -30,7 +30,7 @@
 * 🤔 I’m looking for help with remote job :package:
 * :sparkles: Innovative and  :thought_balloon: Creative developer
 
-* :link: [Resume](https://bit.ly/326Stq4) 
+* :link: [Resume](https://drive.google.com/file/d/1CaEsM2A04RiabnD3SRsCCGT9TMBr1g1g/view?usp=sharing) 
 * :link: [Portfolio](http://meetbaja.herokuapp.com) 
 
 * 😁 Nice to meet you! :green_heart:
