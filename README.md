@@ -27,7 +27,7 @@
 * 📫 How to reach me: :email: raphealenike@gmail.com
 * 👯 I’m looking to collaborate on open source projects
 * 💬 Ask me about: web and mobile applications, article writing, research :calling:
-* 🤔 I’m looking for help with remote job :package:
+* 🤔 Available for short or long term contract and remote jobs :package:
 * :sparkles: Innovative and  :thought_balloon: Creative developer
 
 * :link: [Resume](https://docs.google.com/document/d/1Ix_5OLtPBRCQZpi1NmXgsEzaamc3RBXArjKPnQcWlOM/edit?usp=drive_link) 
