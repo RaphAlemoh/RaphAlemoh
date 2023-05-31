@@ -31,6 +31,6 @@
 * :sparkles: Innovative and  :thought_balloon: Creative developer
 
 * :link: [Resume](https://docs.google.com/document/d/1Ix_5OLtPBRCQZpi1NmXgsEzaamc3RBXArjKPnQcWlOM/edit?usp=drive_link) 
-* :link: [Portfolio](http://meetbaja.herokuapp.com) 
+* :link: [Portfolio](https://alemsbaja.hashnode.dev) 
 
 * 😁 Nice to meet you! :green_heart:
