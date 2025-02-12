@@ -16,10 +16,6 @@
 <a href="https://www.medium.com/@raphealenike">
 <img src="https://img.shields.io/badge/-Medium-%233781da" alt="Medium" /></a> 
 
-<a href="https://www.youtube.com/@techwithalemsbaja/">
-<img src="https://img.shields.io/badge/-Medium-%233781da" alt="Medium" /></a> 
-
-
 <a href="https://www.youtube.com/@techwithalemsbaja/"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/:UCcbyqNvJwiKO0MbhhuXDjtw"></a>
 
 </p>
